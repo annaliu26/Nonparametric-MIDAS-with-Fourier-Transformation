@@ -1,5 +1,7 @@
 # Nonparametric-MIDAS-with-Fourier-Transformation
 
+This is the code for "Panel Nonparametric MIDAS: A Cluster Approach".
+
 ## Pre-requists
 The code is developed under R (https://www.r-project.org) as well as C++ (See Reference).
 
